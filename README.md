@@ -1,5 +1,6 @@
-### Hello, Mundo! 👋
-
+# Hello, Mundo! 👋
+My name is Reynaldo Mejia. I am a full-stack self-taught developer.\
+I'm currently working on [walk](https://github.com/redmejia/walk) which is small shoe e-commerce 
 <!--
 **redmejia/redmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
