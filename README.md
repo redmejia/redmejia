@@ -2,7 +2,7 @@
 My name is Reynaldo Mejia. I am a full-stack self-taught developer.
 
 ## Projects
-I'm currently working on [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.\
+I'm currently working on [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
 
 ##  Technologies
 <div style="display: inline_blok" >
