@@ -1,3 +1,4 @@
+![mebanner](https://user-images.githubusercontent.com/51460153/129462499-e4035f84-5c39-47cc-ab29-03888317a518.png)
 # Hello, Mundo! 👋
 My name is Reynaldo Mejia. I am a full-stack self-taught developer.
 
