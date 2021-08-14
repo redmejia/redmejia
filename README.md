@@ -1,8 +1,8 @@
 ![mebanner](https://user-images.githubusercontent.com/51460153/129462499-e4035f84-5c39-47cc-ab29-03888317a518.png)
-# Hello, Mundo! 👋
-My name is Reynaldo Mejia. I am a full-stack self-taught developer.
 
-## Projects
+### My name is Reynaldo Mejia. I am a full-stack self-taught developer.
+
+# Projects
 I'm currently working on [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
 
 ##  Technologies
@@ -21,7 +21,7 @@ I'm currently working on [walk](https://github.com/redmejia/walk) store which is
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 👋 I’m currently working on ...
 -🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
