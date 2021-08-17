@@ -5,6 +5,9 @@
 # My Projects
 [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
 
+### I’m currently working on
+
+
 ##  Technologies
 <div style="display: inline_blok" >
   <img  alt="go" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> 
