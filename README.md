@@ -1,4 +1,4 @@
-![me_banner](https://user-images.githubusercontent.com/51460153/130691074-f89aaa44-4f6d-458a-8eec-89c94bd1bfb2.png)
+![me_banne](https://user-images.githubusercontent.com/51460153/130691390-6d82ee5e-e1bc-42ec-a033-2457b72c8772.png)
 
 ### My name is Reynaldo Mejia. I am a full-stack self-taught developer.
 
