@@ -6,7 +6,7 @@
 [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
 
 ### I’m currently working on
-Terminal for developers
+Terminal is website where developers can share their projects.
 - backend using go 
   * [terminal](https://github.com/redmejia/terminal-api) 
 
