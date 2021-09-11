@@ -7,7 +7,7 @@
 
 ### I’m currently working on
 Terminal is website where developers can share their projects.
-- backend [terminal](https://github.com/redmejia/terminal-api).\
+- [terminal-api](https://github.com/redmejia/terminal-api)\
 Technologies
    * Go
    * PostgreSQL
