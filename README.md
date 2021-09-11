@@ -7,6 +7,9 @@
 
 ### I’m currently working on
 Terminal is website where developers can share their projects.
+- [terminal-app](https://github.com/redmejia/terminal-app)\
+  Technologies 
+    * React js
 - [terminal-api](https://github.com/redmejia/terminal-api)\
 Technologies
    * Go
