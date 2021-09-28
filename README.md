@@ -6,6 +6,9 @@
 [walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
 
 ### I’m currently working on
+My Portfolio
+- [Reynaldo Mejia](https://github.com/redmejia/portfolio)
+
 Terminal is website where developers can share their projects.
 - [terminal-app](https://github.com/redmejia/terminal-app)\
   Technologies 
