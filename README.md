@@ -21,19 +21,14 @@ Technologies
    * Go
    * PostgreSQL
    
-  
-  
-  
-  
-
 
 ##  Technologies
 <div style="display: inline_blok" >
-  <img  alt="go" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> 
-  <img  alt="react" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img  alt="redux" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> 
-  <img  alt="psql" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
-  <img alt="redux" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> 
+  <img  alt="go" width="48px" src="../../src/redmejia/assets/img/svg/go.svg" /> 
+  <img  alt="react" width="48px" src="../../src/redmejia/assets/img/svg/react.svg" />
+  <img  alt="redux" width="48px" src="../../src/redmejia/assets/img/svg/redux.svg" /> 
+  <img  alt="psql" width="48px" src="../../src/redmejia/assets/img/svg/postgresql.svg" /> 
+  <img alt="bash" width="48px" src="../../src/redmejia/assets/img/svg/gnubash.svg" /> 
 </div>
  
 
