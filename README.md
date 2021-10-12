@@ -39,6 +39,7 @@ Technologies
 <div style="display: inline_blok" >
   <img  alt="react" width="48px" src="assets/img/svg/react.svg" />
   <img  alt="redux" width="48px" src="assets/img/svg/redux.svg" /> 
+  <img  alt="bootstrap" width="48px" src="assets/img/svg/bootstrap.svg" /> 
   <img  alt="html" width="48px" src="assets/img/svg/html5.svg" /> 
   <img  alt="css" width="48px" src="assets/img/svg/css3.svg" /> 
   <img  alt="sass" width="48px" src="assets/img/svg/sass.svg" /> 
