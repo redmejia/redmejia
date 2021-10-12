@@ -3,7 +3,8 @@
 ### My name is Reynaldo Mejia. I am a full-stack self-taught developer.
 
 # My Projects
-[walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.
+[walk](https://github.com/redmejia/walk) store which is small shoe e-commerce.\
+[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go. On this project, I wanted to put in practice Go language concepts.  
 
 ### I’m currently working on
 My Portfolio
