@@ -21,18 +21,21 @@ Technologies
    * Go
    * PostgreSQL
    
+  
+  
+  
+  
+
 
 ##  Technologies
 <div style="display: inline_blok" >
-  <img  alt="go" width="48px" src="../../src/redmejia/assets/img/svg/go.svg" /> 
-  <img  alt="react" width="48px" src="../../src/redmejia/assets/img/svg/react.svg" />
+  <img  alt="go" width="48px" src="assets/img/svg/go.svg" /> 
+  <!-- <img  alt="react" width="48px" src="../../src/redmejia/assets/img/svg/react.svg" />
   <img  alt="redux" width="48px" src="../../src/redmejia/assets/img/svg/redux.svg" /> 
   <img  alt="psql" width="48px" src="../../src/redmejia/assets/img/svg/postgresql.svg" /> 
-  <img alt="bash" width="48px" src="../../src/redmejia/assets/img/svg/gnubash.svg" /> 
+  <img alt="bash" width="48px" src="../../src/redmejia/assets/img/svg/postgresql.svg" />  -->
 </div>
  
-
-
 <!--
 **redmejia/redmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
