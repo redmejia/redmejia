@@ -8,12 +8,14 @@
 
 ### I’m currently working on
 My Portfolio
-- [Reynaldo Mejia](https://github.com/redmejia/portfolio)
+- [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io)
+
 
 Terminal is website where developers can share their projects.
 - [terminal-app](https://github.com/redmejia/terminal-app)\
   Technologies 
     * React js
+
 - [terminal-api](https://github.com/redmejia/terminal-api)\
 Technologies
    * Go
