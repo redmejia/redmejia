@@ -28,7 +28,7 @@ Technologies
 
 
 #  Technologies
-## Back-end and Data Stogare
+## Back-end and Data Storage
 <div style="display: inline_blok" >
   <img  alt="go" width="48px" src="assets/img/svg/go.svg" /> 
   <img  alt="psql" width="48px" src="assets/img/svg/postgresql.svg" /> 
