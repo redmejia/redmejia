@@ -14,7 +14,10 @@ My Portfolio
 Terminal is website where developers can share their projects.
 - [terminal-app](https://github.com/redmejia/terminal-app)\
   Technologies 
+    * Bootstrap
     * React js
+    * React router
+    * redux toolkit
 
 - [terminal-api](https://github.com/redmejia/terminal-api)\
 Technologies
