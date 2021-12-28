@@ -4,7 +4,7 @@
 
 # My Projects
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
-[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go. On this project, I wanted to put in practice Go language concepts.  
+[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go. 
 
 ### I’m currently working on
 My Portfolio
