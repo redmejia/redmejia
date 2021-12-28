@@ -1,6 +1,5 @@
 ![mejia](https://user-images.githubusercontent.com/51460153/147538194-ab74941f-6a78-4219-be0a-a844d1911aeb.png)
 
-### My name is Reynaldo Mejia.
 
 # My Projects
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
