@@ -1,19 +1,19 @@
 ![me_banne](https://user-images.githubusercontent.com/51460153/130691390-6d82ee5e-e1bc-42ec-a033-2457b72c8772.png)
 
-### My name is Reynaldo Mejia. I am a full-stack self-taught developer.
+### My name is Reynaldo Mejia.
 
 # My Projects
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go. 
 
-### I’m currently working on
+# I’m currently working on
 My Portfolio
 - [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io)
 
 
 Terminal is website where developers can share their projects.
 - [terminal-app](https://github.com/redmejia/terminal-app)\
-  Technologies 
+Technologies 
     * Bootstrap
     * React js
     * React router
@@ -23,12 +23,7 @@ Terminal is website where developers can share their projects.
 Technologies
    * Go
    * PostgreSQL
-   
   
-  
-  
-  
-
 
 #  Technologies
 ## Back-end and Data Storage
