@@ -1,4 +1,4 @@
-![me_banne](https://user-images.githubusercontent.com/51460153/130691390-6d82ee5e-e1bc-42ec-a033-2457b72c8772.png)
+![mejia](https://user-images.githubusercontent.com/51460153/147538194-ab74941f-6a78-4219-be0a-a844d1911aeb.png)
 
 ### My name is Reynaldo Mejia.
 
