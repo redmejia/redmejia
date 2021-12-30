@@ -2,7 +2,8 @@
 
 # My Projects
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
-[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go. 
+[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
+[Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.
 
 # I’m currently working on
 My Portfolio
