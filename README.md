@@ -5,7 +5,7 @@
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
-[Stop-mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).\
+[Stop-mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
 
 
 # I’m currently working on
