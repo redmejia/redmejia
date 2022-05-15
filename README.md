@@ -1,4 +1,4 @@
-![mejia](https://user-images.githubusercontent.com/51460153/168461599-839955ae-91a5-4946-a40e-f4ee9a61cb1d.png)
+![mejia](https://user-images.githubusercontent.com/51460153/168461869-4815c5db-e344-4c69-afed-91c45d43cd82.png)
 
 # My Projects
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My porfolio see my work.\
