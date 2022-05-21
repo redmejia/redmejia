@@ -22,7 +22,13 @@ Technologies
 Technologies
    * Go
    * PostgreSQL
-  
+
+# LinkedIn
+<div>
+  <a href="https://www.linkedin.com/in/reynaldomejia/"> 
+    <img alt="in" width="48px" src="assets/img/svg/linkedin.svg" />
+  </a>
+</div>
 
 #  Technologies
 ## Back-end and Data Storage
