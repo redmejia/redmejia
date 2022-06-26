@@ -2,7 +2,7 @@
 
 # My Projects
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My porfolio see my work.\
-[Connect](https://github.com/redmejia/connect) Which is a business to business project.\
+[Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
