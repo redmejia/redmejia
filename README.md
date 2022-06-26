@@ -2,6 +2,7 @@
 
 # My Projects
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My porfolio see my work.\
+[Connect](https://github.com/redmejia/connect) Which is a business to business project.\
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
@@ -10,18 +11,8 @@
 
 # I’m currently working on
 
-Terminal is website where developers can share their projects.
-- [terminal-app](https://github.com/redmejia/terminal-app)\
-Technologies 
-    * Bootstrap
-    * React js
-    * React router
-    * redux toolkit
+I am thinking 🤔 on what to build for my next project.
 
-- [terminal-api](https://github.com/redmejia/terminal-api)\
-Technologies
-   * Go
-   * PostgreSQL
 
 # LinkedIn
 <div>
