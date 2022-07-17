@@ -11,7 +11,17 @@
 
 # I’m currently working on
 
-I am thinking 🤔 on what to build for my next project.
+## Win Payment Processor
+Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.
+
+## Technologies
+Backend
+- Go
+- PostgreSQL
+- MongoDB
+
+
+<!-- I am thinking 🤔 on what to build for my next project. -->
 
 
 # LinkedIn
