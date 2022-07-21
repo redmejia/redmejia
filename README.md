@@ -36,6 +36,7 @@ Backend
 <div style="display: inline_blok" >
   <img  alt="go" width="48px" src="assets/img/svg/go.svg" /> 
   <img  alt="psql" width="48px" src="assets/img/svg/postgresql.svg" /> 
+  <img  alt="mgdb" width="48px" src="assets/img/svg/mongodb.svg" /> 
   <img alt="bash" width="48px" src="assets/img/svg/gnubash.svg" /> 
 </div>
 
