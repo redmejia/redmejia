@@ -13,7 +13,7 @@ Win is a portfolio project for practice microservices architecture using Go(Gola
 
 
 # I’m currently working on
-### [Send](https://github.com/redmejia/send) is a movil app for send and recive money. 
+### [Send](https://github.com/redmejia/send) is a mobile app for send and recive money. 
 
 ## Technologies
   - React Native 
