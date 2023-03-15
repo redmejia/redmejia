@@ -12,16 +12,16 @@
 Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.
 
 
-# I’m currently working on
-## Send
+<!-- # I’m currently working on -->
+<!-- ## Send
 ### [Send](https://github.com/redmejia/send) is a mobile app for send and recive money. 
 ### [Send Services](https://github.com/redmejia/send-services) Microservices for Send mobile app.
 ## Technologies I use for Send 
   - React Native 
   - Go (Golang)
-  - Docker
+  - Docker -->
 
-<!-- I am thinking 🤔 on what to build for my next project. -->
+I am thinking 🤔 on what to build for my next project.
 
 
 # LinkedIn
