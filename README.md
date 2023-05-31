@@ -10,7 +10,7 @@
 [Stop-mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).\
 [Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\
 [Win Payment](https://github.com/redmejia/win) Processor
-Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.\
+Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.
 
 
 <!-- # I’m currently working on -->
