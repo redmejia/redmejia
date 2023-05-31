@@ -2,6 +2,7 @@
 
 # My Projects
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My porfolio see my work.\
+[Art App](https://github.com/redmejia/art-app) Is an art gallery app written with React Native.\
 [Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
@@ -10,7 +11,6 @@
 [Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\
 [Win Payment](https://github.com/redmejia/win) Processor
 Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.\
-[Art App](https://github.com/redmejia/art-app) Is an art gallery app written with React Native.
 
 
 <!-- # I’m currently working on -->
