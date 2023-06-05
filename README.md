@@ -1,13 +1,20 @@
 ![mejia](https://user-images.githubusercontent.com/51460153/168461869-4815c5db-e344-4c69-afed-91c45d43cd82.png)
 
+## My Portfolio
+[Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work.
+
+
 # My Projects
-[Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My porfolio see my work.\
+## Mobile Projects
 [Art App](https://github.com/redmejia/art-app) Is an art gallery app written with React Native.\
+[Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone.\
+[Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
+
+## Web Projects
 [Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
-[Stop-mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).\
 [Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\
 [Win Payment](https://github.com/redmejia/win) Processor
 Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.
