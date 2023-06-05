@@ -1,7 +1,7 @@
 ![mejia](https://user-images.githubusercontent.com/51460153/168461869-4815c5db-e344-4c69-afed-91c45d43cd82.png)
 
-## My Portfolio
-[Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work.
+<!-- ## My Portfolio link to repo
+[Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work. -->
 
 
 # My Projects
