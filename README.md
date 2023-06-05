@@ -6,7 +6,7 @@
 
 # My Projects
 ## Mobile Projects
-[Art App](https://github.com/redmejia/art-app) Is an art gallery app written with React Native.\
+[Art App](https://github.com/redmejia/art-app) Is an art gallery app.\
 [Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone.\
 [Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
 
