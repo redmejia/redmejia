@@ -6,8 +6,9 @@
 
 # My Projects
 ## Mobile Projects
-[Art App](https://github.com/redmejia/art-app) Is an art gallery app.\
-[Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone.\
+[Art App](https://github.com/redmejia/art-app) Is an art gallery app [video demo](https://drive.google.com/file/d/1aHMSDldTqQRM_sOxS856eDhJVm1wD34c/view?usp=sharing).\
+[KeyWord](https://github.com/redmejia/key-word) is my own keyboard app [video demo](https://drive.google.com/file/d/19c3_VQ-orZX8seqR4W1r3HQuz7hKzTIm/view?usp=sharing).\
+[Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone [video demo](https://drive.google.com/file/d/1kex3Xqj7XwUPiigEi_WTeDM-sWyDxvqP/view?usp=sharing).\
 [Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
 
 ## Web Projects
