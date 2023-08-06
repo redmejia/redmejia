@@ -6,7 +6,7 @@
 
 # My Projects
 ## Mobile Projects
-[Hi App](https://github.com/redmejia/art-app) is a chat app [video demo](https://drive.google.com/file/d/1G5rkvK-HcNyq927vQFzWlH9sD4lU_UIw/preview).\
+[Hi App](https://github.com/redmejia/hi-app) is a chat app [video demo](https://drive.google.com/file/d/1G5rkvK-HcNyq927vQFzWlH9sD4lU_UIw/preview).\
 [Art App](https://github.com/redmejia/art-app) Is an art gallery app [video demo](https://drive.google.com/file/d/1aHMSDldTqQRM_sOxS856eDhJVm1wD34c/preview).\
 [NXday](https://github.com/redmejia/next-day) Task management app [video demo](https://drive.google.com/file/d/1sqeGAWfr9GFG5f1znYU6er-NFve07qQo/preview).\
 [KeyWord](https://github.com/redmejia/key-word) is my own keyboard app [video demo](https://drive.google.com/file/d/13EUqq0GzbZurJtFkYk18gi4_t82hkX5D/preview).\
