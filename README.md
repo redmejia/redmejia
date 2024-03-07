@@ -32,7 +32,7 @@ Win is a portfolio project for practice microservices architecture using Go(Gola
   - Go (Golang)
   - Docker -->
 
-# Welcome to Learn TypeScript 
+# Learn TypeScript 4 Beginner
 Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring developers and individuals eager to dive into the world of programming with TypeScript. If you're new to coding or looking to enhance your skills in this statically-typed superset of JavaScript, you're in the right place! This repositories are crafted to guide you through TypeScript fundamentals.
 
 👉 [TypeScript 4 Begginers](https://github.com/redmejia/learning-typescript).\
@@ -40,7 +40,6 @@ Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring devel
 
 
 <!-- I am thinking 🤔 on what to build for my next project. -->
-
 
 # LinkedIn
 <div>
