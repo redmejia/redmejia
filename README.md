@@ -1,4 +1,5 @@
-![mejia](https://user-images.githubusercontent.com/51460153/168461869-4815c5db-e344-4c69-afed-91c45d43cd82.png)
+<!-- ![mejia](https://user-images.githubusercontent.com/51460153/168461869-4815c5db-e344-4c69-afed-91c45d43cd82.png) -->
+ <img  alt="go" width="100%" src="assets/img/svg/in-banner.png" /> 
 
 <!-- ## My Portfolio link to repo
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work. -->
