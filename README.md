@@ -54,8 +54,8 @@ Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring devel
 <div style="display: inline_blok" >
   <img  alt="go" width="48px" src="assets/img/svg/go.svg" /> 
   <img  alt="psql" width="48px" src="assets/img/svg/postgresql.svg" /> 
-  <img  alt="mgdb" width="48px" src="assets/img/svg/mongodb.svg" /> 
-  <img alt="bash" width="48px" src="assets/img/svg/gnubash.svg" /> 
+  <!-- <img  alt="mgdb" width="48px" src="assets/img/svg/mongodb.svg" />  -->
+  <!-- <img alt="bash" width="48px" src="assets/img/svg/gnubash.svg" />  -->
 </div>
 
 ## Front-end
@@ -63,9 +63,9 @@ Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring devel
   <img  alt="react" width="48px" src="assets/img/svg/react.svg" />
   <img  alt="redux" width="48px" src="assets/img/svg/redux.svg" /> 
   <img  alt="bootstrap" width="48px" src="assets/img/svg/bootstrap.svg" /> 
-  <img  alt="html" width="48px" src="assets/img/svg/html5.svg" /> 
-  <img  alt="css" width="48px" src="assets/img/svg/css3.svg" /> 
-  <img  alt="sass" width="48px" src="assets/img/svg/sass.svg" /> 
+  <!-- <img  alt="html" width="48px" src="assets/img/svg/html5.svg" /> 
+  <img  alt="css" width="48px" src="assets/img/svg/css3.svg" />  -->
+  <!-- <img  alt="sass" width="48px" src="assets/img/svg/sass.svg" />  -->
 </div>
 
 <!--
