@@ -7,7 +7,7 @@
 
 # My Projects
 ## Mobile Projects
-[Pic App](https://github.com/redmejia/pic)Pic is an Android app designed to capture and store images [video demo](https://drive.google.com/file/d/1gA60xtMNy_9Wpd4ymUuI_YkgzJxSoroN/preview).\
+[Pic App](https://github.com/redmejia/pic) Pic is an Android app designed to capture and store images [video demo](https://drive.google.com/file/d/1gA60xtMNy_9Wpd4ymUuI_YkgzJxSoroN/preview).\
 [Hi App](https://github.com/redmejia/hi-app) is a chat app [video demo](https://drive.google.com/file/d/1G5rkvK-HcNyq927vQFzWlH9sD4lU_UIw/preview).\
 [Art App](https://github.com/redmejia/art-app) Is an art gallery app [video demo](https://drive.google.com/file/d/1aHMSDldTqQRM_sOxS856eDhJVm1wD34c/preview).\
 [NXday](https://github.com/redmejia/next-day) Task management app [video demo](https://drive.google.com/file/d/1sqeGAWfr9GFG5f1znYU6er-NFve07qQo/preview).\
