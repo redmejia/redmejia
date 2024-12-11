@@ -5,8 +5,6 @@
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work. -->
 
 
-# Learn to code with me
-[BinaryStack01](https://binarystack.netlify.app) Bits & Bytes & Beyond.
 
 # My Projects
 ## Mobile Projects
@@ -23,6 +21,8 @@
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
 [Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
+
+
 <!-- [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\ -->
 <!-- [Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\ -->
 <!-- [Win Payment](https://github.com/redmejia/win) Processor
@@ -44,6 +44,9 @@ Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring devel
 👉 [TypeScript 4 Beginners](https://github.com/redmejia/learning-typescript).\
 👉 [TypeScript 4 Beginners Data Sctructure](https://github.com/redmejia/typescript-data-structure)
 
+
+<!-- # Learn to code with me
+[BinaryStack01](https://binarystack.netlify.app) Bits & Bytes & Beyond. -->
 
 <!-- I am thinking 🤔 on what to build for my next project. -->
 
