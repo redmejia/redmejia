@@ -14,7 +14,8 @@
 [NXday](https://github.com/redmejia/next-day) Task management app [video demo](https://drive.google.com/file/d/1sqeGAWfr9GFG5f1znYU6er-NFve07qQo/preview).\
 [KeyWord](https://github.com/redmejia/key-word) is my own keyboard app [video demo](https://drive.google.com/file/d/13EUqq0GzbZurJtFkYk18gi4_t82hkX5D/preview).\
 [Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone [video demo](https://drive.google.com/file/d/1kex3Xqj7XwUPiigEi_WTeDM-sWyDxvqP/preview).\
-[Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
+[Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).\
+[X-Camera Android Jetpack Compose](https://github.com/redmejia/x-camera) CameraX library implementation learn more [BinaryStack01](https://binarystack.netlify.app/)
 
 
 ## Web Projects
@@ -41,8 +42,8 @@ Win is a portfolio project for practice microservices architecture using Go(Gola
 # Learn TypeScript 4 Beginner
 Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring developers and individuals eager to dive into the world of programming with TypeScript. If you're new to coding or looking to enhance your skills in this statically-typed superset of JavaScript, you're in the right place! This repositories are crafted to guide you through TypeScript fundamentals.
 
-👉 [TypeScript 4 Beginners](https://github.com/redmejia/learning-typescript).\
-👉 [TypeScript 4 Beginners Data Sctructure](https://github.com/redmejia/typescript-data-structure)
+[TypeScript 4 Beginners](https://github.com/redmejia/learning-typescript)\
+[TypeScript 4 Beginners Data Sctructure](https://github.com/redmejia/typescript-data-structure)
 
 
 <!-- # Learn to code with me
