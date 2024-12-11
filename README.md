@@ -5,6 +5,9 @@
 [Reynaldo Mejia](https://github.com/redmejia/redmejia.github.io) My portfolio see my work. -->
 
 
+# Learn to code with me
+[BinaryStack01](https://binarystack.netlify.app) Bits & Bytes & Beyond.
+
 # My Projects
 ## Mobile Projects
 [Pic App](https://github.com/redmejia/pic) Pic is an Android app designed to capture and store images [video demo](https://drive.google.com/file/d/1gA60xtMNy_9Wpd4ymUuI_YkgzJxSoroN/preview).\
@@ -15,14 +18,15 @@
 [Calculator](https://github.com/redmejia/calculator) This a Udemy projects which is a calculator clone [video demo](https://drive.google.com/file/d/1kex3Xqj7XwUPiigEi_WTeDM-sWyDxvqP/preview).\
 [Stop mobile](https://github.com/redmejia/stop-native-app) Nucamp coding bootcamp portfolio mobile version of the [Stop](https://github.com/redmejia/stop).
 
+
 ## Web Projects
-[Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
 [Walk Store](https://github.com/redmejia/walk) which is small shoe e-commerce.\
-[Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\
 [Stop](https://github.com/redmejia/stop) Nucamp coding bootcamp portfolio project.\
-[Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\
-[Win Payment](https://github.com/redmejia/win) Processor
-Win is a portfolio project for practice microservices architecture using Go(Golang) programming language.
+[Connect](https://github.com/redmejia/connect) Which is a business to business portfolio project.\
+<!-- [Small Bank](https://github.com/redmejia/sm-bank) is a REST-API project written in Go.\ -->
+<!-- [Block-e](https://github.com/redmejia/block-e) small project Blockchain with GO.\ -->
+<!-- [Win Payment](https://github.com/redmejia/win) Processor
+Win is a portfolio project for practice microservices architecture using Go(Golang) programming language. -->
 
 
 <!-- # I’m currently working on -->
@@ -59,9 +63,10 @@ Welcome to Learn TypeScript for Beginner, your go-to resource for aspiring devel
   <!-- <img alt="bash" width="48px" src="assets/img/svg/gnubash.svg" />  -->
 </div>
 
-## Front-end
+## Mobile and Web Technologies
 <div style="display: inline_blok" >
   <img  alt="react" width="48px" src="assets/img/svg/react.svg" />
+  <img  alt="bootstrap" width="48px" src="assets/img/svg/kotlin.svg" /> 
   <img  alt="redux" width="48px" src="assets/img/svg/redux.svg" /> 
   <img  alt="bootstrap" width="48px" src="assets/img/svg/bootstrap.svg" /> 
   <!-- <img  alt="html" width="48px" src="assets/img/svg/html5.svg" /> 
